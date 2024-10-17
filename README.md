@@ -1,4 +1,4 @@
-https://drive.google.com/drive/folders/16onMu0oimJZZknwPZ3d3f8AJ1R0KN5Iu?usp=sharing
+https://drive.google.com/drive/folders/1HgI3lJ3SMPlplajsTdUnKovPStUq6Hq9?usp=sharing
 
 1.	 Develop simple EJB application to demonstrate Servlet Hit count using
 Singleton Session Beans.	20
